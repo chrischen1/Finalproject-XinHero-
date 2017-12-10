@@ -4,7 +4,7 @@ In this project we designed and implemented a game, in which a hero fights its w
 ![Front scene of the game](frontpage.jpg)
 
 However, because we couldn't find game assets of chinese  heros and soldiers. we used whatever game assets we managed to obtain.
-![snapshot of the game]()
+![Game assests combination](game in design end of sprint 1.JPG)
 
 The knight in shiny armor is the hero.
 The soldier in the gray armor is an enemy.
