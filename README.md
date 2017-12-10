@@ -19,7 +19,7 @@ For the development of the game, **Stencyl** game engine was used.
 This engine allows us to develop behavior and physics for each character.
 It also allows us to develop the logic without having to do the detailed coding.
 
-![sample logic screen]()
+![sample logic screen](gamelogic.JPG)
 
 [Stencyl can be download from this link](http://www.stencyl.com/)
 
