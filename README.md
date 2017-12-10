@@ -1,10 +1,12 @@
 # Finalproject-XinHero-
 
 In this project we designed and implemented a game, in which a hero fights its way through enemey soldiers and genrals The game is two-diemnsional. It is composed of two scenes and can be extended as needed. The game was intened as a depiction of a period of chinese history (the warring state era).
+
 ![Front scene of the game](frontpage.jpg)
 
-However, because we couldn't find game assets of chinese  heros and soldiers. we used whatever game assets we managed to obtain.
-![Game assests combination](game in design end of sprint 1.JPG)
+However, because we couldn't find game assets of chinese  heros and soldiers. we used whatever game assets we managed to obtain.game
+
+![Game assests combination](gameassests.jpg)
 
 The knight in shiny armor is the hero.
 The soldier in the gray armor is an enemy.
