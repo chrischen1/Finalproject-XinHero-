@@ -13,12 +13,14 @@ The soldier in the gray armor is an enemy.
 
 ## *Game Engine*
 For the development of the game, **Stencyl** game engine was used.
+
 ![Stencyl game deveopment engine](stencyl.JPG)
 
 This engine allows us to develop behavior and physics for each character.
 It also allows us to develop the logic without having to do the detailed coding.
 
-![sample logic]
+![sample logic screen]()
+
 [Stencyl can be download from this link](http://www.stencyl.com/)
 
 ## The game was developed in three sprints
