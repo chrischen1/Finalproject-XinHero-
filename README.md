@@ -54,7 +54,7 @@ It also allows us to develop the logic without having to do the detailed coding.
 
 ## Downloading and playing the game
 
-1. Download the game from the Github repository.
+1. Download the game from the Github repository(https://github.com/chrischen1/Finalproject-XinHero-/blob/master/HeroXinversionFinal.swf).
 2. Unzip the folder.
 3. Double clic on the .swf file.  
 4. Click start.
