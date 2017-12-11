@@ -9,4 +9,4 @@
 
 ![Main manu behavior2](Manuscenebehaviorscene11.png)
 
-![Main manu behavior code view](Manuscenebehaviorscene1codeview.png)
+![Main manu behavior code view](Manuscnebehaviorscene1codeview.png)
