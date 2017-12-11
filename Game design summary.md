@@ -16,7 +16,7 @@ The soldier in the gray armor is an enemy.
 ## *Game Engine*
 For the development of the game, **Stencyl** game engine was used.
 
-![Stencyl game deveopment engine]
+![Stencyl game deveopment engine](stencyl.JPG)
 
 This engine allows us to develop behavior and physics for each character.
 It also allows us to develop the logic without having to do the detailed coding.
@@ -60,7 +60,7 @@ In the sprint review a number of bugs are detected, among them:
 * Further features and improvements are recommended
 * The personality of the enemy and the hero were switched
 
-![the game as it appears after sprint 2]()
+![the game as it appears after sprint 2](sprint 2.JPG)
 
 [Sprint2](https://github.com/Anesouadou/Finalproject-XinHero-/tree/Sprint-Two)
 
@@ -70,7 +70,7 @@ In this sprint are:
 2. Add the recommended features and improvements.
 3. Meet the conditions for the first release of the game.
 
-![the game as it appears after sprint 3]()
+![the game as it appears after sprint 3](sprint 3.JPG)
 [Sprint3](https://github.com/Anesouadou/Finalproject-XinHero-/tree/Sprint-Three)
 
 # Downloading and playing the game
