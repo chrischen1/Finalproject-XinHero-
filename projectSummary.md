@@ -9,7 +9,11 @@ The game was intened as a depiction of a period of chinese history (the warring 
 However, because we couldn't find game assets of chinese  heros and soldiers. we used whatever game assets we managed to obtain.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![snapshot of the game]()
+=======
+![snapshot of the game](gameassests.jpg)
+>>>>>>> 68669177554c31ab436321054f07e82a97da229e
 =======
 ![snapshot of the game](gameassests.jpg)
 >>>>>>> 68669177554c31ab436321054f07e82a97da229e
