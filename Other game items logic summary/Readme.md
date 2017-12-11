@@ -3,12 +3,28 @@
 
 ![Scene2 behaviors](Scene2scenebehaviors.png)
 
-**2. Life points tracker behavior**
+**2. Actor behaviors display**
 
-![Life points tracker behavior](Scene2lifepointmanager.png)
+![Actor behaviors in sprint 2](Scene2Actorbehaviors.png)
 
-![Life points tracker behavior1](Scene2Lifepoint1.png)
+**3. Actors display**
 
-![Life points tracker behavior2](Scene2lifepoint2.png)
+![Actors](Scene2actorplayers.png)
 
-![Life points tracker behavior3](Scene2lifepoint3.png)
+**4. Scene behaviors display**
+
+![Scene behaviors](Scene2scenebehaviors.png)
+
+**5. Tile sets**
+
+![Tile sets](Scenetilesets.png)
+
+**6. Sprint2 play through**
+
+![Playthrough1](Scene2playthrough.png)
+
+![Playthrough2](Scene2Scenes1.png)
+
+**7. Sprint2 game scenes display**
+
+![Scenes](Scene2Scenes.png)
