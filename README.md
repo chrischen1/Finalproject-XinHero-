@@ -6,6 +6,10 @@
 **_scrum master_ :** Wenyi Lu
 **_develope team_ :** Xinzhou Liu, Chen Chen, Jianshen Zhu.
 
+## Team introduction vedio:
+
+https://drive.google.com/file/d/1a8Ch6I2GcUx61tITV5CJbWNEzrrNP87K/view?usp=sharing
+
 ## Introduction
 
 In this project we designed and implemented a game, in which a hero fights its way through enemey soldiers and genrals The game is two-diemnsional. It is composed of two scenes and can be extended as needed. The game was intened as a depiction of a period of chinese history (the warring state era).
