@@ -8,3 +8,8 @@
 
 ![Common enemies code view](Scene2commonenemiescodeview.png)
 
+**2. Boss enemy behavior display**
+
+![Boss enemy](Scene2bossbehaviors1.png)
+
+![Boss enemy code view](Scene2bossbehaviorscodeview.png)
