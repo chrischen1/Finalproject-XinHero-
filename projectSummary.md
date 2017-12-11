@@ -8,22 +8,26 @@ The game was intened as a depiction of a period of chinese history (the warring 
 
 However, because we couldn't find game assets of chinese  heros and soldiers. we used whatever game assets we managed to obtain.
 
-![snapshot of the game]()
+![snapshot of the game](gameassests.jpg)
 
 The knight in shiny armor is the hero.
 The soldier in the gray armor is an enemy.
-===========================================================================================================================
-#*Game Engine*
+
+# *Game Engine*
 For the development of the game, **Stencyl** game engine was used.
-![Stencyl game deveopment engine]
+
+![Stencyl game deveopment engine]()
 
 This engine allows us to develop behavior and physics for each character.
+
 It also allows us to develop the logic without having to do the detailed coding.
-![sample logic]
+
+![sample logic]()
+
 [Stencyl can be download from this link](http://www.stencyl.com/)
-===========================================================================================================================
+
 # The game was developed in three sprints
------------------------------------------------------------------
+
 1. Sprint1
 .....* Deciding on project that fits the scrum process
 .......We decided to make a game
