@@ -45,11 +45,11 @@ behavior
 
 #### In the sprint review a number of bugs are detected, among them:
 
-..*the hero was having problem executing the attack in standing/ walking status.
-..*There was a gap between the hero/enemy and the tile (they seemed like floating).
-..*The hero would disappear when jumping (no scene limits).
-..*Further features and improvements are recommended 
-..*It was found that it is better to switch the personality of the enemy and the hero. A knight in shiny armor would fit better as a hero, while a soldier in gray armor wouldfit better as an enemy soldier.
+*the hero was having problem executing the attack in standing/ walking status.
+*There was a gap between the hero/enemy and the tile (they seemed like floating).
+*The hero would disappear when jumping (no scene limits).
+*Further features and improvements are recommended 
+*It was found that it is better to switch the personality of the enemy and the hero. A knight in shiny armor would fit better as a hero, while a soldier in gray armor wouldfit better as an enemy soldier.
 
 ![the game as it appears after sprint 2](sprint2.JPG)
 [Sprint2](https://github.com/Anesouadou/Finalproject-XinHero-/tree/Sprint-Two)
