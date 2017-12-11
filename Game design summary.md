@@ -4,11 +4,11 @@ In this project we designed and implemented a game, in which a hero fights its w
 The game is two-diemnsional. It is composed of two scenes and can be extended as needed.
 The game was intened as a depiction of a period of chinese history (the warring state era).
 
-![snapshot of the game]()
+![snapshot of the game](sprint2.JPG)
 
 However, because we couldn't find game assets of chinese  heros and soldiers. we used whatever game assets we managed to obtain.
 
-![snapshot of the game]()
+![snapshot of the game](sprint3.JPG)
 
 The knight in shiny armor is the hero.
 The soldier in the gray armor is an enemy.
@@ -70,7 +70,7 @@ In this sprint are:
 2. Add the recommended features and improvements.
 3. Meet the conditions for the first release of the game.
 
-![the game as it appears after sprint 3](sprint 3.JPG)
+![the game as it appears after sprint 3](sprint3.JPG)
 [Sprint3](https://github.com/Anesouadou/Finalproject-XinHero-/tree/Sprint-Three)
 
 # Downloading and playing the game
