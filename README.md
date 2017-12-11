@@ -9,6 +9,6 @@ In this sprint:
 
 3.The conditions for the first release of the game were met.
 
-![the game as it appears after sprint 3]()
+![the game as it appears after sprint 3](sprint3.JPG)
 
 [Sprint3](https://github.com/Anesouadou/Finalproject-XinHero-/tree/Sprint-Three)
