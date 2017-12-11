@@ -60,7 +60,7 @@ In the sprint review a number of bugs are detected, among them:
 * Further features and improvements are recommended
 * The personality of the enemy and the hero were switched
 
-![the game as it appears after sprint 2](sprint 2.JPG)
+![the game as it appears after sprint 2](sprint2.JPG)
 
 [Sprint2](https://github.com/Anesouadou/Finalproject-XinHero-/tree/Sprint-Two)
 
