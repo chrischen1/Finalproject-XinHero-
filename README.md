@@ -6,7 +6,7 @@
 **_scrum master_ :** Wenyi Lu
 **_develope team_ :** Xinzhou Liu, Chen Chen, Jianshen Zhu.
 
-## Team introduction vedio:
+## Team Final project explanation vedio:
 
 https://drive.google.com/file/d/1a8Ch6I2GcUx61tITV5CJbWNEzrrNP87K/view?usp=sharing
 
